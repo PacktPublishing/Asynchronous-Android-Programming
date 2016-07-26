@@ -1,0 +1,43 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "21.1.1"
+
+    defaultConfig {
+        applicationId "com.packpublishing.asynchronousandroid"
+        minSdkVersion 9
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    useLibrary 'org.apache.http.legacy'
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile project(':chapter1')
+    compile project(':chapter3')
+    compile project(':chapter2')
+    compile project(':chapter4')
+    compile project(':chapter5')
+    compile project(':chapter6')
+    compile project(':chapter7')
+    compile project(':chapter8')
+    compile project(':chapter9')
+    compile project(':chapter10')
+    compile project(':chapter11')
+    compile project(':chapter12')
+    compile project(':extra')
+    compile 'com.google.android.gms:play-services-gcm:8.3.0'
+    compile 'com.android.support:design:23.1.0'
+}
+
+//apply plugin: 'com.google.gms.google-services'
