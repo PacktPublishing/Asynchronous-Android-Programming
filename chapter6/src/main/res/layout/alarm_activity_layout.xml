@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="5 Hours After Boot"
+        android:id="@+id/fiveHourElapedBut" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="5 Minute After"
+        android:id="@+id/fiveMinRTCBut" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tomorrow at 10:00"
+        android:id="@+id/tomorrowAt10But" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="5 Minutes Exact"
+        android:id="@+id/fiveMinExactBut" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="5 Minutes Allow Idle"
+        android:id="@+id/fiveMinAllowIdle" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="5 Minutes Window"
+        android:id="@+id/fiveMinWindow" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1 Hour Alarm"
+        android:id="@+id/oneHourAlarm" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cancel Alarm"
+        android:id="@+id/cancelAlarm" />
+
+
+</LinearLayout>
