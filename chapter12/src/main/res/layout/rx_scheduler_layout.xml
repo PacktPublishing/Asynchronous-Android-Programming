@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+   android:padding="10dp"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/text"
+            android:background="#222222"
+            android:textColor="#DDDDDD"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minLines="6" />
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="10dp">
+
+        <Button
+            android:id="@+id/retrieveBut"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Get Content" />
+        <Button
+            android:id="@+id/getAndTranslateBut"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Get and Translate" />
+        <Button
+            android:id="@+id/getTransProgress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Get+Translate+Progress" />
+    </LinearLayout>
+
+</LinearLayout>
