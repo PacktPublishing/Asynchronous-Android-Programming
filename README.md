@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/asynchronous-android-programming-second-edition/9781785883248)
+-----
+*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1785883240).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Asynchronous Android Programming
 
 This is the code repository for [Asynchronous Android Programming](https://www.packtpub.com/application-development/asynchronous-android-programming?utm_source=Github&utm_medium=repository&utm_campaign=9781785883248), published by [Packt Publishing](https://www.packtpub.com/). It contains all the required files to run the code.
