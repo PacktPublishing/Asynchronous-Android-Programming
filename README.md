@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B05062?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Asynchronous Android Programming
 
 This is the code repository for [Asynchronous Android Programming](https://www.packtpub.com/application-development/asynchronous-android-programming?utm_source=Github&utm_medium=repository&utm_campaign=9781785883248), published by [Packt Publishing](https://www.packtpub.com/). It contains all the required files to run the code.
