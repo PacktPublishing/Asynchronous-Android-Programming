@@ -23,7 +23,3 @@ more recent Android version—up to Android 5, Lollipop.
 * [Oracle Identity and Access Manager 11g for Administrators](https://www.packtpub.com/application-development/android-30-application-development-cookbook?utm_source=Github&utm_medium=repository&utm_campaign=9781849512947)
 * [Asynchronous Android](https://www.packtpub.com/application-development/asynchronous-android?utm_source=Github&utm_medium=repository&utm_campaign=9781783286874)
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to download a free PDF copy of this book.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781785883248">https://packt.link/free-ebook/9781785883248 </a> </p>
